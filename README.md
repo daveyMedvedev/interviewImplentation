@@ -28,4 +28,4 @@ day: '',
 
 template(str, this.state)
 
-![Screenshot](screenshot.png)
+![Screenshot](Screen Shot 2018-06-05 at 7.31.11 PM.png)
