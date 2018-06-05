@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 
+![Screenshot](screen.png)
+
+
 Run with npm build -> npm start
 
 
@@ -29,4 +32,3 @@ this.state = {
 template(str, this.state)
 ```
 
-![Screenshot](screen.png)
