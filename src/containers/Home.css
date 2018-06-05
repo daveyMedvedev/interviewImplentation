@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding-top: 0;
+  font-family: Helvetica Neue, Helvetica;
+  background: #f7f7f7;
+}
+
+form {
+  padding: 0 40px;
+}
+
+form input {
+  display: block;
+  width: 100%;
+  font-size: 20px;
+  padding: 5px 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+button {
+  display: block;
+  width: 40%;
+  margin-left: 30%;
+  margin-right: 30%;
+  appearance: none;
+  border-radius: 5px;
+  background-color: #84c00c;
+  color: #fff;
+  border: none;
+  font-size: 16px;
+  height: 40px;
+  margin-top: 30px;
+}
+
+button:hover {
+  background-color: #669509;
+}
