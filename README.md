@@ -5,13 +5,14 @@ Run with npm build -> npm start
 
 
 Code snippet for the function:
-
+```javascript
 function template(str, context) {
 const pattern = /{(.\*?)}+/g;
 return str.replace(pattern, function($1, $2) {
 return context[$2];
 });
 }
+```
 
 Usage in the App:
 
@@ -28,4 +29,4 @@ day: '',
 
 template(str, this.state)
 
-![Screenshot](Screen Shot 2018-06-05 at 7.31.11 PM.png)
+![Screenshot](screen.png)
