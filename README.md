@@ -27,3 +27,5 @@ day: '',
 };
 
 template(str, this.state)
+
+![Screenshot](screenshot.png)
